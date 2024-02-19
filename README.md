@@ -18,6 +18,6 @@ Benefits:
   
 Technologies:
 
-* Frontend: Vue.js, HTML, CSS
-* Backend: Python (Django)
-* AI Library: GPT-3
+* Frontend: `Vue.js, HTML, CSS`
+* Backend: `Python (Django)`
+* AI Library: `GPT-3`
