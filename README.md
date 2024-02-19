@@ -21,3 +21,4 @@ Technologies:
 * Frontend: `Vue.js, HTML, CSS`
 * Backend: `Python (Django)`
 * AI Library: `GPT-3`
+* DataBase: `Empty`
