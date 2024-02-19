@@ -4,18 +4,18 @@ StoryAI is a web application that uses artificial intelligence to generate uniqu
 
 Features:
 
-*Generate stories based on user-defined parameters
-*Choose from a variety of genres, including fantasy, science fiction, mystery, and more
-*Customize the story's setting, characters, and plot
-*Get real-time feedback on your story
-*Share your stories with others
+Generate stories based on user-defined parameters
+Choose from a variety of genres, including fantasy, science fiction, mystery, and more
+Customize the story's setting, characters, and plot
+Get real-time feedback on your story
+Share your stories with others
 
 Benefits:
 
-*Learn about different storytelling techniques
-*Improve your writing skills
-*Generate creative content for your blog, website, or social media
-*Have fun and explore your imagination
+Learn about different storytelling techniques
+Improve your writing skills
+Generate creative content for your blog, website, or social media
+Have fun and explore your imagination
 
 Technologies:
 
