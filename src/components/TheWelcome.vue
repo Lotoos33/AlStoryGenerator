@@ -14,9 +14,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Documentation</template>
 
-    Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
-    provides you with all information you need to get started.
+    StoryAI is a web application that uses artificial intelligence to generate unique and engaging stories. That's why we have open documentation for you <a href="#">Here</a>!
   </WelcomeItem>
 
   <WelcomeItem>
@@ -25,36 +23,23 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Tooling</template>
 
-    This project is served and bundled with
-    <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
-    recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. If
-    you need to test your components and web pages, check out
-    <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
-    <a href="https://on.cypress.io/component" target="_blank" rel="noopener"
-      >Cypress Component Testing</a
-    >.
+    <p><h4>Generate stories based on user-defined parameters:</h4> Simply provide keywords, select a genre and desired length, and StoryAI  will do the rest.</p>
+    <p><h4>Customize genres and styles:</h4> Choose from a wide range of genres, including fantasy, science fiction, romance, mystery, thriller, and many more. You can also customize the tone and style of your story to match your preferences.</p>
 
     <br />
 
-    More instructions are available in <code>README.md</code>.
+    More informations are available in <a href="#">Here</a>.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <EcosystemIcon />
     </template>
-    <template #heading>Ecosystem</template>
-
-    Get official tools and libraries for your project:
-    <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
-    <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
-    <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
-    <a href="https://github.com/vuejs/devtools" target="_blank" rel="noopener">Vue Dev Tools</a>. If
-    you need more resources, we suggest paying
-    <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
-    a visit.
+    <template #heading>Benefits:</template>
+    <ul><li><h4>Explore new storytelling techniques</h4></li>
+    <li><h4>Improve your writing</h4></li>
+    <li><h4>Generate creative content</h4></li>
+    <li><h4>Have fun and explore</h4></li></ul>
   </WelcomeItem>
 
   <WelcomeItem>
@@ -63,26 +48,32 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Community</template>
 
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
-    Discord server, or
-    <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
-      >StackOverflow</a
-    >. You should also subscribe to
-    <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
-    the official
-    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    twitter account for latest news in the Vue world.
+    Any interesting idea? See any error? Join our Discord <a href="#">Here</a>! <p>Let us know about it!</p>
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>Support AIStoryGenerator</template>
 
-    As an independent project, Vue relies on community backing for its sustainability. You can help
+    As an independent project, AI Story Generator relies on community backing for its sustainability. You can help
     us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+    <a href="#" target="_blank" rel="noopener">becoming a sponsor</a>.
   </WelcomeItem>
+
+  
 </template>
+
+<style scoped>
+h4 {
+  color: hsla(160, 100%, 37%, 1);
+}
+
+h4:hover {
+  color: rgb(1, 160, 107);
+  font-weight: 900;
+  font-size: medium;
+  cursor: default;
+}
+</style>
