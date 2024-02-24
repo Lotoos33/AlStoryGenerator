@@ -14,10 +14,21 @@ defineProps({
       Make your dream's come true! <p>We using:
       <a href="#" target="_blank" rel="noopener">GPT-3</a></p> 
     </h3>
+
+    <button><a href="#">Start Here!</a></button>
   </div>
 </template>
 
-<style scoped>
+<style scoped> 
+ button {
+  display: flex;
+  margin: 0 auto;
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  padding-top: 0.6rem;
+ }
+
 h1 {
   font-weight: 500;
   font-size: 2.6rem;
